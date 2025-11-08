@@ -1,0 +1,72 @@
+[
+  {
+    "id": 101,
+    "name": "Tour T-Shirt",
+    "category": "Apparel",
+    "description": "Unisex algodón 100% con diseño serigrafiado del tour.",
+    "price": 25.0,
+    "currency": "USD",
+    "variants": [
+      { "size": "S", "color": "Black", "stock": 30 },
+      { "size": "M", "color": "Black", "stock": 45 },
+      { "size": "L", "color": "Black", "stock": 40 },
+      { "size": "XL", "color": "Black", "stock": 20 }
+    ],
+    "keywords": ["shirt", "tour", "apparel"],
+    "stock": 135
+  },
+  {
+    "id": 102,
+    "name": "Vinyl LP - Limited Edition",
+    "category": "Music",
+    "description": "Edición limitada en vinilo color ámbar con póster plegable.",
+    "price": 35.0,
+    "currency": "USD",
+    "variants": [
+      { "edition": "Amber", "stock": 80 }
+    ],
+    "keywords": ["vinyl", "limited", "collector"],
+    "stock": 80
+  },
+  {
+    "id": 103,
+    "name": "Enamel Pin Set",
+    "category": "Accessories",
+    "description": "Set de 3 pines esmaltados con íconos del álbum.",
+    "price": 12.0,
+    "currency": "USD",
+    "variants": [
+      { "pack": "3-pack", "stock": 150 }
+    ],
+    "keywords": ["pin", "accessory", "bundle"],
+    "stock": 150
+  },
+  {
+    "id": 104,
+    "name": "Hoodie Logo",
+    "category": "Apparel",
+    "description": "Hoodie de felpa con logo bordado al frente.",
+    "price": 55.0,
+    "currency": "USD",
+    "variants": [
+      { "size": "M", "color": "Grey", "stock": 25 },
+      { "size": "L", "color": "Grey", "stock": 25 },
+      { "size": "XL", "color": "Grey", "stock": 15 }
+    ],
+    "keywords": ["hoodie", "logo", "warm"],
+    "stock": 65
+  },
+  {
+    "id": 105,
+    "name": "Signed Poster",
+    "category": "Collectibles",
+    "description": "Póster A2 firmado por la banda.",
+    "price": 40.0,
+    "currency": "USD",
+    "variants": [
+      { "run": "First", "stock": 50 }
+    ],
+    "keywords": ["poster", "signed", "limited"],
+    "stock": 50
+  }
+]

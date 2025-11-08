@@ -1,0 +1,62 @@
+[
+  {
+    "id": 201,
+    "title": "La Sombra del Reloj",
+    "description": "Drama psicológico sobre un relojero que pierde la noción del tiempo mientras enfrenta su pasado.",
+    "genre": "Drama",
+    "date": "2025-01-14",
+    "venue": "Teatro Central",
+    "city": "Madrid",
+    "duration_min": 110,
+    "cast": ["Luis Herrera", "María Soler", "Ana Ruiz"],
+    "keywords": ["tiempo", "memoria", "psicologico"]
+  },
+  {
+    "id": 202,
+    "title": "Sueños en Papel",
+    "description": "Obra de teatro infantil que mezcla marionetas y proyecciones animadas.",
+    "genre": "Infantil",
+    "date": "2025-02-03",
+    "venue": "Sala Azul",
+    "city": "Barcelona",
+    "duration_min": 65,
+    "cast": ["Elena Torres", "Compañía Títeres Luz"],
+    "keywords": ["marionetas", "fantasía", "familia"]
+  },
+  {
+    "id": 203,
+    "title": "Ecos de Metal",
+    "description": "Teatro experimental con música industrial en vivo y narrativa fragmentada.",
+    "genre": "Experimental",
+    "date": "2025-03-22",
+    "venue": "Espacio Alterno",
+    "city": "Bilbao",
+    "duration_min": 90,
+    "cast": ["Colectivo Resonancia"],
+    "keywords": ["industrial", "experimental", "sonido"]
+  },
+  {
+    "id": 204,
+    "title": "Cartas a Ningún Lugar",
+    "description": "Monólogo íntimo sobre la espera y la identidad en la era digital.",
+    "genre": "Monólogo",
+    "date": "2025-04-10",
+    "venue": "Teatro Pequeño",
+    "city": "Sevilla",
+    "duration_min": 55,
+    "cast": ["Julia Morales"],
+    "keywords": ["identidad", "soledad", "digital"]
+  },
+  {
+    "id": 205,
+    "title": "La Última Nota",
+    "description": "Tragicomedia musical sobre una pianista retirada que regresa a los escenarios.",
+    "genre": "Musical",
+    "date": "2025-05-18",
+    "venue": "Gran Teatro Moderno",
+    "city": "Valencia",
+    "duration_min": 125,
+    "cast": ["Claudia Pérez", "Jorge Molina"],
+    "keywords": ["musica", "retorno", "piano"]
+  }
+]

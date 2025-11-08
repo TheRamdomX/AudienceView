@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Inception",
+        "overview": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "genres": ["Action", "Science Fiction", "Adventure"],
+        "keywords": ["dream", "subconscious", "heist"]
+    },
+    {
+        "id": 2,
+        "title": "The Dark Knight",
+        "overview": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+        "genres": ["Action", "Crime", "Drama"],
+        "keywords": ["dc comics", "batman", "joker"]
+    },
+    {
+        "id": 3,
+        "title": "Interstellar",
+        "overview": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "genres": ["Adventure", "Drama", "Science Fiction"],
+        "keywords": ["space travel", "wormhole", "dystopia"]
+    },
+    {
+        "id": 4,
+        "title": "Pulp Fiction",
+        "overview": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "genres": ["Thriller", "Crime"],
+        "keywords": ["hitman", "nonlinear timeline", "classic"]
+    },
+    {
+        "id": 5,
+        "title": "Forrest Gump",
+        "overview": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+        "genres": ["Comedy", "Drama", "Romance"],
+        "keywords": ["vietnam war", "biography", "based on novel"]
+    }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 301,
+    "artist": "Aurora Skies",
+    "tour_name": "Celestial Nights Tour",
+    "date": "2025-06-12",
+    "venue": "Palacio de Deportes",
+    "city": "Madrid",
+    "country": "Spain",
+    "genres": ["Ambient", "Electronic"],
+    "supporting_acts": ["Binary Drift"],
+    "tickets": {"available": 3200, "price_min": 30, "price_max": 85, "currency": "EUR"},
+    "keywords": ["synth", "visual show", "atmospheric"]
+  },
+  {
+    "id": 302,
+    "artist": "Golden Trail",
+    "tour_name": "Roadfire Summer",
+    "date": "2025-07-05",
+    "venue": "Auditorio Marina",
+    "city": "Valencia",
+    "country": "Spain",
+    "genres": ["Rock", "Indie"],
+    "supporting_acts": ["City Pulse", "Silver Ink"],
+    "tickets": {"available": 1800, "price_min": 25, "price_max": 60, "currency": "EUR"},
+    "keywords": ["guitars", "summer", "outdoor"]
+  },
+  {
+    "id": 303,
+    "artist": "Binary Drift",
+    "tour_name": "Codewave Live",
+    "date": "2025-08-19",
+    "venue": "Sala Técnica",
+    "city": "Barcelona",
+    "country": "Spain",
+    "genres": ["Techno", "Electronic"],
+    "supporting_acts": ["DJ Resonance"],
+    "tickets": {"available": 900, "price_min": 20, "price_max": 55, "currency": "EUR"},
+    "keywords": ["club", "dance", "live mix"]
+  },
+  {
+    "id": 304,
+    "artist": "Silver Ink",
+    "tour_name": "Quiet Stories Sessions",
+    "date": "2025-09-02",
+    "venue": "Teatro Armonía",
+    "city": "Granada",
+    "country": "Spain",
+    "genres": ["Folk", "Acoustic"],
+    "supporting_acts": [],
+    "tickets": {"available": 700, "price_min": 22, "price_max": 50, "currency": "EUR"},
+    "keywords": ["intimate", "storytelling", "acoustic"]
+  },
+  {
+    "id": 305,
+    "artist": "City Pulse",
+    "tour_name": "Downtown Nights",
+    "date": "2025-10-11",
+    "venue": "Pabellón Urbano",
+    "city": "Bilbao",
+    "country": "Spain",
+    "genres": ["Synthwave", "Electronic"],
+    "supporting_acts": ["Aurora Skies"],
+    "tickets": {"available": 2500, "price_min": 28, "price_max": 70, "currency": "EUR"},
+    "keywords": ["retro", "lights", "energy"]
+  }
+]
